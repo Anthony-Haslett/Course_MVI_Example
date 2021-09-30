@@ -1,0 +1,19 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><h1><a href=\"https://codingwithmitch.com/courses/model-view-intent-mvi-architecture/\" target=\"_blank\">Example MVI implementation</a></h1>\n<p>This repository is code for a video course. <a href=\"https://codingwithmitch.com/courses/model-view-intent-mvi-architecture/\" target=\"_blank\">Click here to watch the course</a>.</p>\n<p>The app uses the following libraries / topics:</p>\n<ul>\n\t<li>Kotlin</li>\n\t<li>Coroutines</li>\n\t<li>Retrofit2</li>\n\t<li>Glide</li>\n\t<li>ViewModels</li>\n\t<li>Repository pattern</li>\n\t<li>NetworkBoundResource (as recommend by architecture guide in google sample. See <a href=\"https://github.com/googlesamples/android-architecture-components/blob/master/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/NetworkBoundResource.kt\" target=\"_blank\">here</a>).</li>\n</ul>\n<br>\n<p>The app does two things:</p>\n<ol>\n\t<li>Get 'User' data from <a href=\"https://open-api.xyz/placeholder/user\" target=\"_blank\">open-api.xyz/placeholder/user</a>.</li>\n\t<li>Get a list of 'BlogPost' data from <a href=\"https://open-api.xyz/placeholder/blogs\" target=\"_blank\">open-api.xyz/placeholder/blogs</a>.</li>\n</ol>\n<br>\n<p></p>\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 7d65d2775e7389e6ca3d36084cadbaf29dc56aee)
++++ b/README.md	(date 1632825217381)
+@@ -10,7 +10,7 @@
+ 	<li>Repository pattern</li>
+ 	<li>NetworkBoundResource (as recommend by architecture guide in google sample. See <a href="https://github.com/googlesamples/android-architecture-components/blob/master/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/NetworkBoundResource.kt" target="_blank">here</a>).</li>
+ </ul>
+-<br>
++<br> 
+ <p>The app does two things:</p>
+ <ol>
+ 	<li>Get 'User' data from <a href="https://open-api.xyz/placeholder/user" target="_blank">open-api.xyz/placeholder/user</a>.</li>

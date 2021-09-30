@@ -9,7 +9,7 @@
 	<li>Repository pattern</li>
 	<li>NetworkBoundResource (as recommend by architecture guide in google sample. See <a href="https://github.com/googlesamples/android-architecture-components/blob/master/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/NetworkBoundResource.kt" target="_blank">here</a>).</li>
 </ul>
-<br>
+<br> 
 <p>The app does two things:</p>
 <ol>
 	<li>Get 'User' data from <a href="https://open-api.xyz/placeholder/user" target="_blank">open-api.xyz/placeholder/user</a>.</li>
